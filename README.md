@@ -14,5 +14,5 @@ The goal of this dataset is to provide a method to train or evaluate ML models f
 ## Download
 `src/grab_audio.py` can be used to download audio files directly from YouTube.
 
-Audio can also be downloaded from [here](https://nerissa.usc.edu:6101/sharing/feQwlp6gc).
+Audio can also be downloaded from [here](http://cetus.usc.edu/files/usc-aas-v0.1.tar.gz).
 
